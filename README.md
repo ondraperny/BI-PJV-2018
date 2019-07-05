@@ -7,8 +7,8 @@ To run: open as project in jetbrains idea and run it there.
 
 Game menu
 ---
-![menu](docs/Main_menu.JPG)
+![menu](src/NMob/thedrake/docs/Main_menu.JPG)
 
 Game
 ---
-![ingame](docs/ingame.JPG)
+![ingame](src/NMob/thedrake/docs/ingame.JPG)
