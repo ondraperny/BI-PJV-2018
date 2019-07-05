@@ -1,0 +1,10 @@
+Button {
+    -fx-background-color: #F2EDD8;
+    -fx-text-fill: #4d3c37;
+    -fx-background-radius: 10;
+    -fx-effect: dropShadow(three-pass-box, #242424, 5, 0, 4, 4);
+}
+
+.root {
+    -fx-background-image: url("game_background.jpg");
+}
