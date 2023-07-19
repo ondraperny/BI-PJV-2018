@@ -1,9 +1,9 @@
-# BI-PJV-2018
+# Board game in Java
 
-Turn-based game [The Drake](http://podlomar.org/thedrake.html) programed in Java 8. Part of code was already received at the beginning and during work on this project (which was made in 8 iterations).
+Implementations of the turn-based game [The Drake](http://podlomar.org/thedrake.html) programed in Java 8.
 
 ---
-To run: open as project in jetbrains idea and run it there or in bash by JDK 8(source code filepath: "src/NMob/thedrake")
+To run: open as project in Jetbrains Idea and run it there or in bash by JDK 8(source code filepath: "src/NMob/thedrake")
 
 Game menu
 ---
